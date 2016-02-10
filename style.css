@@ -1,0 +1,70 @@
+body{
+
+	background-color: #800000;
+	font-family: Calibri;
+	
+}
+
+h1 {
+	font-size: 500% ;
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-size: 200%;
+	color: white;
+	text-align: center;
+	
+}
+
+h3 {
+	font-size: 100%;
+	color: white;
+	text-align: center;
+}
+
+a{
+  margin:auto;
+  display:block;
+	text-decoration: none
+	text-color: white
+	text-size: 200px
+	 background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+	
+}
+
+a:link {
+    color: white;
+	
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+	size: 500%
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+
+
+
+div {
+	text-align: center;
+	align: center;
+	margin: 0 auto;
+}
